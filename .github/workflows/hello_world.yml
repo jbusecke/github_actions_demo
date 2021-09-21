@@ -4,4 +4,4 @@ jobs:
   hello_world:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello (Github Actions) World
+      - run: echo "Hello (Github Actions) World"
